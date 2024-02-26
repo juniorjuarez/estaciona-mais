@@ -1,0 +1,15 @@
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\bin\Debug\net7.0\EstacionaMaios.exe
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\bin\Debug\net7.0\EstacionaMaios.deps.json
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\bin\Debug\net7.0\EstacionaMaios.runtimeconfig.json
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\bin\Debug\net7.0\EstacionaMaios.dll
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\bin\Debug\net7.0\EstacionaMaios.pdb
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\EstacionaMaios.csproj.AssemblyReference.cache
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\EstacionaMaios.GeneratedMSBuildEditorConfig.editorconfig
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\EstacionaMaios.AssemblyInfoInputs.cache
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\EstacionaMaios.AssemblyInfo.cs
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\EstacionaMaios.csproj.CoreCompileInputs.cache
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\EstacionaMaios.dll
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\refint\EstacionaMaios.dll
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\EstacionaMaios.pdb
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\EstacionaMaios.genruntimeconfig.cache
+C:\CURSO-DOTNET\ProgramadorTech\EstacionaMaios\EstacionaMaios\obj\Debug\net7.0\ref\EstacionaMaios.dll
